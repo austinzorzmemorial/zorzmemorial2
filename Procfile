@@ -1,1 +1,1 @@
-worker: zorzmemorial.py
+worker: python zorzmemorial.py
