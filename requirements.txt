@@ -1,1 +1,9 @@
 discord
+
+asyncio
+
+pymoe
+
+requests
+
+simplejson
