@@ -11,6 +11,7 @@ Client = discord.client
 client = commands.Bot(command_prefix = '!')
 Clientdiscord = discord.Client()
 
+api = str(os.environ.get('RIOT_KEY'))
 
 @client.event
 async def on_ready():
