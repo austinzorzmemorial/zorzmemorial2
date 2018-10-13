@@ -48,4 +48,4 @@ async def on_message(message):
         await client.send_message(message.channel,'he stabbed 2 kids and is now in social service.')
     if message.content == 'what happendt to zorz':
         await client.send_message(message.channel,'he stabbed 2 kids and is now in social service.')
-client.run('NTAwNzQ4NTkyNTM3OTI3Njg5.DqPWeQ.lzMgRBrMWGdEIwp6B1L-jwEISF4')
+client.run(str('BOT_TOKEN')))
